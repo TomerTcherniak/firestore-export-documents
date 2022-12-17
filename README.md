@@ -43,4 +43,4 @@ No changes. Your infrastructure matches the configuration.
 
 scheduler was set up on a weekly basis , each backup will cost and it counts the reads
 
-suspend cron was set up on 0 0 * * 6
+
