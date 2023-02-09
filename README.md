@@ -9,8 +9,6 @@ Tomer Tcherniak
 # info
 
 ```
-Teleport backend are stored in backup bucket
-Teleport cloud function script was set in a specific bucket
 Backup is taken from Cloud Firestore
 Backup is done using Cloud function
 Cloud scheduler is trigger the action
