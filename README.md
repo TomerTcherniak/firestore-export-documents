@@ -26,17 +26,6 @@ backup_bucket = bucket backup name
 
 Terraform v1.1.4
 
-# terraform plan
-```
-terraform plan
-google_storage_bucket.functions_store: Refreshing state...
-google_cloud_scheduler_job.firestoreExportDocuments: Refreshing state...
-google_storage_bucket_object.firestoreExportDocumentstion_code: Refreshing state...
-google_cloudfunctions_function.firestoreExportDocuments: Refreshing state...
-
-No changes. Your infrastructure matches the configuration.
-```
-
 # cloud scheduler
 
 scheduler was set up on a weekly basis , each backup will cost and it counts the reads
